@@ -1,0 +1,258 @@
+[
+    {
+      "product_id": "P001",
+      "product_title": "Apple MacBook Air",
+      "product_image": "https://i.ibb.co.com/zmtVqFK/01.jpg",
+      "category": "Laptops",
+      "price": 999,
+      "description": "Lightweight, powerful, and reliable for all-day performance.",
+      "Specification": [
+        "chipset: Apple M1",
+        "RAM: 8GB",
+        "ROM: 256GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P002",
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/qMYvm77/02.webp",
+      "category": "Laptops",
+      "price": 1100,
+      "description": "Ultra-thin with powerful performance and stunning display.",
+      "Specification": [
+        "chipset: Intel Core i7",
+        "RAM: 16GB",
+        "ROM: 512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P003",
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co.com/nw7r8Ly/03.webp",
+      "category": "Laptops",
+      "price": 1150,
+      "description": "Versatile 2-in-1 with excellent battery life and performance.",
+      "Specification": [
+        "chipset: Intel Core i7",
+        "RAM: 16GB",
+        "ROM: 512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P004",
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://i.ibb.co.com/10KMjK1/04.webp",
+      "category": "Laptops",
+      "price": 1200,
+      "description": "Durable, lightweight, and designed for professionals.",
+      "Specification": [
+        "chipset: Intel Core i5",
+        "RAM: 8GB",
+        "ROM: 256GB SSD"
+      ],
+      "availability": false,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P005",
+      "product_title": "Acer Swift 3",
+      "product_image": "https://i.ibb.co.com/nDbJ3vs/05.webp",
+      "category": "Laptops",
+      "price": 650,
+      "description": "Budget-friendly with excellent battery life.",
+      "Specification": [
+        "chipset: AMD Ryzen 5",
+        "RAM: 8GB",
+        "ROM: 256GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "P006",
+      "product_title": "Microsoft Surface Laptop 4",
+      "product_image": "https://i.ibb.co.com/Q8X4cmV/06.webp",
+      "category": "Laptops",
+      "price": 1299,
+      "description": "Sleek design with powerful performance.",
+      "Specification": [
+        "chipset: Intel Core i7",
+        "RAM: 16GB",
+        "ROM: 512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P007",
+      "product_title": "Asus ZenBook 14",
+      "product_image": "https://i.ibb.co.com/fFJJp34/07.webp",
+      "category": "Laptops",
+      "price": 950,
+      "description": "Compact and lightweight, ideal for travel.",
+      "Specification": [
+        "chipset: Intel Core i5",
+        "RAM: 8GB",
+        "ROM: 512GB SSD"
+      ],
+      "availability": false,
+      "rating": 4.3
+    },
+    {
+      "product_id": "P008",
+      "product_title": "Apple MacBook Pro",
+      "product_image": "https://i.ibb.co.com/8znmcdS/08.webp",
+      "category": "Laptops",
+      "price": 1899,
+      "description": "High-performance laptop with Apple M1 chip.",
+      "Specification": [
+        "chipset: Apple M1",
+        "RAM: 16GB",
+        "ROM: 1TB SSD"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P009",
+      "product_title": "Apple iPhone 13",
+      "product_image": "https://i.ibb.co.com/pzD93wM/09.webp",
+      "category": "Phones",
+      "price": 799,
+      "description": "Latest iPhone with A15 Bionic chip and improved cameras.",
+      "Specification": [
+        "chipset: A15 Bionic",
+        "RAM: 4GB",
+        "ROM: 128GB"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P010",
+      "product_title": "Samsung Galaxy S21",
+      "product_image": "https://i.ibb.co.com/p1DnSGv/10.webp",
+      "category": "Phones",
+      "price": 699,
+      "description": "High-end Android phone with powerful features.",
+      "Specification": [
+        "chipset: Exynos 2100",
+        "RAM: 8GB",
+        "ROM: 128GB"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P011",
+      "product_title": "Google Pixel 6",
+      "product_image": "https://i.ibb.co.com/h2kygng/11.webp",
+      "category": "Phones",
+      "price": 599,
+      "description": "Excellent camera and smooth Android experience.",
+      "Specification": [
+        "chipset: Google Tensor",
+        "RAM: 8GB",
+        "ROM: 128GB"
+      ],
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P012",
+      "product_title": "Apple Watch Series 7",
+      "product_image": "https://i.ibb.co.com/48sNdLC/12.webp",
+      "category": "Smart Watches",
+      "price": 399,
+      "description": "Latest Apple Watch with health monitoring features.",
+      "Specification": [
+        "chipset: Apple S7",
+        "RAM: 1GB",
+        "ROM: 32GB"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P013",
+      "product_title": "Samsung Galaxy Watch 4",
+      "product_image": "https://i.ibb.co.com/PZjF0BJ/13.webp",
+      "category": "Smart Watches",
+      "price": 349,
+      "description": "Smart watch with Wear OS and excellent fitness features.",
+      "Specification": [
+        "chipset: Exynos W920",
+        "RAM: 1.5GB",
+        "ROM: 16GB"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P014",
+      "product_title": "Apple Watch",
+      "product_image": "https://i.ibb.co.com/7nTvsTV/14.webp",
+      "category": "Smart Watches",
+      "price": 299,
+      "description": "Advanced health watch with ECG and stress tracking.",
+      "Specification": [
+        "chipset: Fitbit OS",
+        "RAM: N/A",
+        "ROM: 4GB"
+      ],
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P015",
+      "product_title": "Anker PowerCore 10000",
+      "product_image": "https://i.ibb.co.com/LgwvKK8/15.jpg",
+      "category": "Accessories",
+      "price": 50,
+      "description": "Compact power bank with high-speed charging.",
+      "Specification": [
+        "battery: 10000mAh",
+        "output: 18W",
+        "input: USB-C"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P016",
+      "product_title": "Sony WH-1000XM4",
+      "product_image": "https://i.ibb.co.com/WDcsCvn/16.webp",
+      "category": "Accessories",
+      "price": 299,
+      "description": "Industry-leading noise canceling headphones.",
+      "Specification": [
+        "battery: 30 hours",
+        "charging: USB-C",
+        "features: Noise Cancelling"
+      ],
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P017",
+      "product_title": "Logitech MX Master 3",
+      "product_image": "https://i.ibb.co.com/hXjvtVB/17.jpg",
+      "category": "Accessories",
+      "price": 99,
+      "description": "Advanced wireless mouse with precision and customization.",
+      "Specification": [
+        "connectivity: Bluetooth",
+        "battery: 70 days",
+        "buttons: Customizable"
+      ],
+      "availability": true,
+      "rating": 4.7
+    }
+  ]
+  
